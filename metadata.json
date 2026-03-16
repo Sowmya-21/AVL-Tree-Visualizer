@@ -1,0 +1,5 @@
+{
+  "name": "AVL Tree Visualizer Pro",
+  "description": "A high-performance interactive AVL Tree visualizer with real-time animations, rotations, height tracking, and balance factor calculations.",
+  "requestFramePermissions": []
+}
