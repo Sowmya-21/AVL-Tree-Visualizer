@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { AVLTree, cloneTree, AVLNode } from './services/avlLogic';
-import { AVLNodeData, AnimationStep } from './types';
+import { AVLNodeData, AnimationStep } from './types/types';
 import Legend from './components/Legend';
 import TraversalDisplay from './components/TraversalDisplay';
 

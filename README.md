@@ -1,14 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AVL Tree Visualizer
 
-## Run Locally
+An interactive web-based AVL Tree Visualizer that demonstrates
+self-balancing binary search tree operations in real time.
 
-**Prerequisites:**  Node.js
+The tool helps students understand AVL tree rotations and
+balance factor updates through smooth animations.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Features
+
+- Insert nodes into AVL Tree
+- Delete nodes
+- Automatic balance factor updates
+- Visualize rotations:
+  - LL Rotation
+  - RR Rotation
+  - LR Rotation
+  - RL Rotation
+- Smooth animations for better learning
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+---
+
+## 📷 Demo
+
+![AVL Tree Visualizer](screenshots/demo.png)
+
+---
+
+## 🚀 Run Locally
+
+Prerequisite: Node.js
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
+
+---
+
+## 🌐 Live Demo
+
+https://avl-tree-visualizer.vercel.app
