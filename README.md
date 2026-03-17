@@ -48,9 +48,3 @@ npm install
 Run the development server
 
 npm run dev
-
----
-
-## 🌐 Live Demo
-
-https://avl-tree-visualizer.vercel.app
